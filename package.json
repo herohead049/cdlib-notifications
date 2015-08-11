@@ -1,0 +1,21 @@
+{
+  "name": "cdlib-notifications",
+  "version": "1.0.0",
+  "description": "notification libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Craig David <herohead@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "instapush": "0.0.7"
+  },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/herohead049/cdlib-notifications.git"
+    },
+    "bugs": {
+        "url": "https://github.com/herohead049/cdlib-notifications/issues"
+    }
+}
